@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message sent from the kingdome of Scotand [sic], to Major Generall Massey now resident in Holland concerning their great design against England, and their proposals and desires therein. With the Queen of Englands invitation to Major Gen. Massey touching the same. And his answer and declaration thereupon. Likewise a declaration of his highnesse James Duke of York, his landing at Flushing in Zealand, and his going to Dort, to meet the Prince of Orange. With another declaration concerning hs Highnesse Charles Prince of Wales, and Sir Thomas Glenham, now governour of Barwick for the King.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89108</idno><idno type="EEBO-CITATION">99864338</idno>
+  <idno type="VID">161667</idno>
+  <idno type="EEBO-PROQUEST">2248554080</idno>
+  
+            <idno type="STC">Wing M1906</idno>
+            <idno type="STC">Thomason E441_7</idno>
+            <idno type="STC">ESTC R204887</idno>
+            <idno type="PROQUEST">99864338</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864338e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161667)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E441[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message sent from the kingdome of Scotand [sic], to Major Generall Massey now resident in Holland concerning their great design against England, and their proposals and desires therein. With the Queen of Englands invitation to Major Gen. Massey touching the same. And his answer and declaration thereupon. Likewise a declaration of his highnesse James Duke of York, his landing at Flushing in Zealand, and his going to Dort, to meet the Prince of Orange. With another declaration concerning hs Highnesse Charles Prince of Wales, and Sir Thomas Glenham, now governour of Barwick for the King.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.VV. and are to be sold neere Temple-Barre,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact the answer of the Lords and Commons, but a collection of documents, which includes "A letter from Barwicke" dated: 1 May 1648, as well as the the House of Commons' answer to the Essex petition.</note>
+                  <note>Annotation on Thomason copy: "May 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Massey, Edward, --  Sir, 1619?-1674? --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term type="geographic_name">England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+               <term type="geographic_name">Flushing (Netherlands) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161667:1"/>
+            <p> A MESSAGE Sent from the Kingdome of SCOTAND, TO Major Generall MASSEY now resident in <hi>Holland,</hi> concerning their great Design against <hi>England,</hi> and their Proposals and Desires therein. With the Queen of <hi>Englands</hi> invitation to Major Gen. <hi>Massey</hi> touching the same.</p>
+            <p>
+               <hi>And his Answer and Declaration thereupon.</hi>
+            </p>
+            <p>Likewise a Declaration of his Highnesse JAMES Duke of York, his landing at <hi>Flushing</hi> in <hi>Zealand,</hi> and His go<g ref="char:EOLhyphen"/>ing to <hi>Dort,</hi> to meet the Prince of <hi>Orange.</hi>
+            </p>
+            <p>With another Declaration concerning his Highnesse <hi>Charles</hi> Prince of <hi>Wales,</hi> and Sir <hi>Thomas Glenham,</hi> now Gover<g ref="char:EOLhyphen"/>nour of <hi>Barwick</hi> for the KING.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. VV.</hi> and are to be sold neere Temple-Barre, 1648.</p>
+            <pb facs="tcp:161667:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:161667:2"/>
+            <head>A LETTER FROM YORK:</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>FRom <hi>Scotland</hi> we hear, that they now begin to nomi<g ref="char:EOLhyphen"/>nate and chuse Officers and Commanders for their new Army, some are already chosen; also many ma<g ref="char:EOLhyphen"/>lignants offer their service and desire places of Command, who shall be Generall is not yet knowne nor agreed upon, many desire Duke <hi>Hamilton,</hi> and it is very likely hee may obtain the place, prepositions are comming to the Parliam. of <hi>England,</hi> the Lord <hi>Lee</hi> who was first appointed to bring them is put off upon some other design: in the meane time, the Scots prepare their Army lest their prepositions should not take, which if they do not, it is supposed they intend to
+<pb n="2" facs="tcp:161667:3"/> set footing in <hi>England speedily:</hi> they have quartered a great part of their Forces in the South of <hi>Scotland,</hi> and neere the borders of <hi>England.</hi>
+            </p>
+            <p>Some English are already come to <hi>Barwick,</hi> their Leader is Sir <hi>Marmaduke Langdale,</hi> a great Malignant; but former<g ref="char:EOLhyphen"/>ly a Justice of Peace in this County; they intend to forti<g ref="char:EOLhyphen"/>fie the town, that if they are put to the way, they may with the more conveniency run into Scotland: the coming of these Forces to Barwicke, is almost like to overjoy the malignants in these parts; so that they begin to scandalize the parliament, and use their endeavours to insence the coun<g ref="char:EOLhyphen"/>try both against the parliament and army; but the Forces appointed to secure the North may do much good, then the malignants wil be glad to pull in their hornes again, and may be made to repent their monstrous slanders.</p>
+            <p>A Committee hath already met to consider of the affairs of this and the Northern Counties, they have likewise ap<g ref="char:EOLhyphen"/>pointed a day and place of meeting; upon which time they will consult about the condition of the North, and of put<g ref="char:EOLhyphen"/>ting those parts into a posture of defence: this is all for the present I can acquaint you with, only one thing I shal fur<g ref="char:EOLhyphen"/>ther make mention of, that the Northerne Counties ingene<g ref="char:EOLhyphen"/>ral have joyntly declared, that they will rise as one man a<g ref="char:EOLhyphen"/>gainst the Scotrish Army, and that they wil use their utmost endeavours for the preservation and defence of those partes, against all opposition whatsoever.</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed> I am <hi>Your assured friend to serve you,</hi> F. W.</signed>
+               <dateline>
+                  <hi>York</hi>
+                  <date>
+                     <hi>May</hi> 3. 1648..</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:161667:3"/>
+            <head>The Commission of His Hignesse <hi>Charles</hi> Prince of <hi>Wales, to Sir Thomas Glenham, and Sir Marmaduke Langdale,</hi> touching the prosecuting of a Design for his Royall Father the King.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WE hear that Sir <hi>Marmaduke Langdale,</hi> and the rest of his adherents, have declared the grounds and reasons of this thetr second Engagement a<g ref="char:EOLhyphen"/>gainst the Parliament of <hi>England,</hi> declaring, that their present proceedings tends to no other end, but for the re<g ref="char:EOLhyphen"/>establishing and preservation of the Kings Majesties Royall Person and Posterity, the establishing of the King setling of Religion, and procuring a firm and hap<g ref="char:EOLhyphen"/>py peace, throughout his Majesties Realmes and Domi<g ref="char:EOLhyphen"/>nions, And they have further declared, that they have received power and Commission from his Highnesse the Prince of <hi>Wales,</hi> to seize and take in, any Garrison or Garrisons whatsoever for the use and service of the Kings Majesty, and (as they pretoned) for the ad<g ref="char:EOLhyphen"/>vancement of the King and People: they are victual<g ref="char:EOLhyphen"/>ling the town, and preparing the Workes, and their numbers dayly increase; all which might have beene prevented, had but the Inhabitants opposed their com<g ref="char:EOLhyphen"/>ming in; but immediatly upon their approach to the bridge foot, and shewing their Commission, they suddenly revol<g ref="char:EOLhyphen"/>ted, let down the Draw bridge, and gave them admitance into the town.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:161667:4"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>VVE are here in a very sad condition, for the town being ungarrisoned, and lying open according to the Articles of agreement betweene both King<g ref="char:EOLhyphen"/>doms, a party of English Cavaliers have taken advantage thereby, and possessed themselves thereof, imprisoned the Major, and others wel-affected to the Parl. They brought in some chattel, and other provisions with them, and more is expected. Wee hope t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e parliament wil take some speedy course therein, or else this town is likely to bee utterly tur<g ref="char:EOLhyphen"/>ned. I was told yesterday by a man of good repute, that not<g ref="char:EOLhyphen"/>withstanding the forwardnesse and present posture; yet one of the chiefe of the Nobility told him that many was Ga<g ref="char:EOLhyphen"/>ping and gazing for preferrment, and swore they would be all disappointed of their expectations, for they durst never warr with England, &amp; the Parliament against them, this you may take among the rest; but I can assure you the report still goes of an army amongst them, the English daily flock into them, and the streets of <hi>Edinburg</hi> are now more over<g ref="char:EOLhyphen"/>spread with English then Scots: No newes of the Prince his being there as yet, but dayly expected, divers Troopes lie in the Border of Scotland, what their aime is God knows, but their pretence is for levying of the excize in those parts, they are dayly quarrelling amongst themselves, the Kirk as they call it of Scotland still holds out and will not yeeld to an Army, but its feared that this day they resolve, I mean the Parliament of that Kingdome to vote and enact with<g ref="char:EOLhyphen"/>out the Clergy, the Scots heritours adjacent are for certain endeavouring to get Souldiers for money, they have to my knowledge offered pretty sumes to diverse for going along with them; I can assure you for truth That at this time there is greater divisions in Scotland then was at first, they are now in three factions, for a Generall, viz. Hamiltons fact<g ref="char:EOLhyphen"/>ion, Argyles and Callenders, Its said the Hamiltons carry it away.</p>
+                  <p>The Declaration of the Parliament of Scotland being
+<pb facs="tcp:161667:4"/> perfected, was put to the Vote, whether it should be sent to the Committee of Divines before it past, or not, was carryed in the Negative: when it was Voted 81 were for it 38 against it, who protested and entred the protestations; the thing will be Printed, and had by this time been abroad had not the Church delayed their answer to Tuesday, but have now declared their dissent fully and unna<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>imously, being sensible of the swords getting into such hands, as when they see time, will make nothing of Covenant, nor o<g ref="char:EOLhyphen"/>ther assurances given, and that they who have been esteemed hitherto the most religious there, and in Englard, will be<g ref="char:EOLhyphen"/>come a prey to both popish and prelaticall party; This is believe it, the apprehension of those in Scotland, many of whom stick not to say, they see no visible deliverance from ruine, but the Army in England, what ever you think and say in the South of it making good the old maxime of the multitude, to dislike what ever is present; and if there were none other arguments to ground the former expressed feares Scotland this one were enough that 250 Barons or Lards have met at Lithgow, and other places, within view of Parliament, and so no doubt approved by many, within view of Parliament, and so no doubt approved by many, who write Letters to the Inhabitants to rise for the defence of the King, Religion, and the Church, the two latter being the golden out side of all risings: one of them was sent for to Parliament who was not afraid to come; the other sent to him not to answer without them, they justifie their pro<g ref="char:EOLhyphen"/>ceedings by an old act of Parliament; The businesse for<g ref="char:EOLhyphen"/>merly mentioned of a Ministers refusing to read the Mini<g ref="char:EOLhyphen"/>sters Declaration is grown to that heighth, They to have sentence past, others to have it forborn; That its like to bring in question, whether the Church Sanc Parliament, can publish or injoyn; the dissent of so many of Parliament, and the Divines all of them, to the great Declaration, not at all impeding the publication, bvt out it comes.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Barwick</hi>
+                        <date>2. <hi>of May,</hi> 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="6" facs="tcp:161667:5"/>
+            <p>
+               <hi>By Letters from Holland it is advertized, that the Duke of</hi> York <hi>is landed at</hi> Flushing <hi>in</hi> Zealand, <hi>be<g ref="char:EOLhyphen"/>ing conducted thither by a Colonell, who formerly was busied in Irish affairs, and an active Enemy against the Parliament, the Prince of Orange, with the Princesse, came to a town called Dort, not farre from the Hague, to meet his Highnesse, who was accompanied to the Hague, with a gallant train of Chivalry.</hi>
+            </p>
+            <p>
+               <hi>It is said the Queen and the Prince are suddenly ex<g ref="char:EOLhyphen"/>pected there, and that the Queen upon receipt of a Mes<g ref="char:EOLhyphen"/>sage to Major Gen. Massey from Scotland, inviting him to a command there against England, but Major Gen. Massey refused her proffer, and returned her this answer,</hi> That howsoever be suffered, or notwith<g ref="char:EOLhyphen"/>standing what he had already suffered, or might suffer from his native country of <hi>England,</hi> yet be would never betray his Country so much, as to aid a forrein Nation, to assist them against <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+         </div>
+         <div type="imprimatur">
+            <p>
+               <hi>Imprimatur</hi>
+            </p>
+            <closer>
+               <signed> G. M.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
